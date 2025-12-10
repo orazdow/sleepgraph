@@ -1,0 +1,43 @@
+{
+  "generated_at": "2025-12-10T09:31:59.366055Z",
+  "entries": [
+    {
+      "date": "2025-12-10T00:00:00.000Z",
+      "date_millis": 1765324800000,
+      "in_bed_time": 1765344000000,
+      "sleep_time": 1765355400000,
+      "wake_time": 1765337400000,
+      "up_time": 1765384200000,
+      "medication": "10mg suvorexant",
+      "melatonin_time": null,
+      "hypnotic_time": 1765350000000,
+      "lightbox_ambient": 1765378800000,
+      "lightbox_direct": null,
+      "interruption_start": 1765366200000,
+      "interruption_end": 1765368000000,
+      "coffee_time": null,
+      "sleepy": null,
+      "rested": null,
+      "comment": "quite tired and unrested today"
+    },
+    {
+      "date": "2025-12-09T00:00:00.000Z",
+      "date_millis": 1765238400000,
+      "in_bed_time": 1765263600000,
+      "sleep_time": 1765270200000,
+      "wake_time": 1765296000000,
+      "up_time": 1765300500000,
+      "medication": null,
+      "melatonin_time": null,
+      "hypnotic_time": null,
+      "lightbox_ambient": null,
+      "lightbox_direct": null,
+      "interruption_start": null,
+      "interruption_end": null,
+      "coffee_time": null,
+      "sleepy": null,
+      "rested": null,
+      "comment": null
+    }
+  ]
+}
