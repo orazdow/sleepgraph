@@ -1,0 +1,39 @@
+:root {
+    --page-bg: #2f343d;
+    --graph-bg: LightSlateGray;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--page-bg);
+}
+
+#graph-container {
+    width: 90vw;
+    max-width: 1200px;
+    height: 75vh;
+    max-height: 800px;
+    background: var(--graph-bg);
+    /*box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);*/
+    /*border-radius: 8px;*/
+    overflow: hidden;
+}
+
+.uplot {
+    background: transparent;
+}
+
+@media (max-width: 480px) {
+    #graph-container {
+        width: 100vw;
+        max-width: none;
+        height: 70vh;
+        max-height: none;
+        /* border-radius: 4px; */
+        /* box-shadow: none; */
+    }
+}
